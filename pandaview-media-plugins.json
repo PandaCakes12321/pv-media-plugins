@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "version": "1",
+  "source": {
+    "repository": "https://github.com/PandaCakes12321/pv-media-plugins",
+    "commit": "c33bfee253160cceefdb7c98d864fbb736e8ed9a"
+  },
+  "packages": {
+    "dullahan": "1.50.0.202609160023_152.0.6_g708dc14_chromium-152.0.7977.83",
+    "vlc-bin": "3.0.21.11968962952"
+  }
+}
